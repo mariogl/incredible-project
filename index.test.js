@@ -1,3 +1,5 @@
+const a = 3;
+
 const sum = (number1, number2) => number1 + number2;
 
 describe("Given a sum function", () => {
