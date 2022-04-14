@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'esto testearía si estuviera instalado jest'"
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
