@@ -1,4 +1,4 @@
-const sum = (number1, number2) => number1 + number1;
+const sum = (number1, number2) => number1 + number2;
 
 describe("Given a sum function", () => {
   describe("When it receives 3 and 2", () => {
